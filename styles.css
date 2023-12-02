@@ -52,7 +52,12 @@ h1 {
         border-radius: 20 px;
     }
 
-
+.container {
+ border-radius: 50px;
+ margin: 50px;
+ padding: 40px;
+ background-color: beige;
+}
 
 
 

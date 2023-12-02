@@ -1,0 +1,60 @@
+html
+
+
+,subtitulo {
+    
+    color:rgb(22, 4, 65) ;
+    font-family:cursive ;
+    font-size: 15px;
+    padding: 18px;
+    background-image: url(fondounico.jpg!d);
+    background-repeat: no-repeat;
+}
+
+
+.titulo {
+    background-color: mediumblue;
+    padding: 30px;
+}   
+
+.texto {
+    padding: 30px;
+    margin: 40px;
+}
+
+.circulo {
+    background-color: rgba(197, 13, 13, 0.03);
+    padding: 30px;
+    border-radius: 30px;
+    background-color: #23e3f4be;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 3px 3px 3px #000;
+    
+}
+
+.header {
+    background-color: rgba(173, 143, 244, 0.418);
+    margin: 17px;
+}
+
+
+h1 {
+    background-color: rgba(197, 13, 13, 0.03);
+    border-radius: 30px;
+    background-color: #23e3f4be;
+    text-align: center;
+    box-shadow: 5px 5px 5px #000;
+}
+    
+.img {
+        border-radius: 20 px;
+    }
+
+
+
+
+
+
+
